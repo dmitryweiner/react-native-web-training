@@ -1,0 +1,4 @@
+#Sat Dec 29 19:10:36 KRAT 2018
+base.0=/home/dmw/projects/react-native-web-training/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
